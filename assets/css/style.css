@@ -1,0 +1,52 @@
+html{
+    height: 1000px;
+}
+#dotaLogo{
+    height: 75px;
+    width: 375px;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.container-fluid{
+    background-image: url(../images/background2.png);
+    height: 1000px;
+    font-family: 'Fondamento', cursive;
+    color: #8D8179;
+}
+.display-4{
+    margin-top: 10px;
+}
+.col-md-12{
+    align-items: center;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#rules{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+#timeRemaining{
+    text-align: center;
+}
+#score{
+    text-align: center;
+}
+button{
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #D2301E;
+    color: #ffffff;
+}
+#buttondiv{
+    text-align: left;
+    padding-left: 50px;
+}
+#question{
+    font-size: 25px;
+}
+#options{
+    font-size: 25px;
+}
+input{
+    margin-right: 6px;
+}
